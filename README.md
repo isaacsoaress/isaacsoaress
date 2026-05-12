@@ -12,18 +12,9 @@
 - **Linguagens:** Python (Pygame, bibliotecas matemáticas).
 - **Banco de Dados:** SQL, MySQL, Modelagem Entidade-Relacionamento (brModelo).
 - **Ferramentas:** VS Code, Git & GitHub, Scrum.
-- **Hardware:** Entusiasta de periféricos (atualmente usando um Ajazz AK820 ⌨️).
-
-### 📚 No que estou trabalhando?
-- [PortfolioHUB](https://isaacsoaress.github.io/github-page/): Meu portfólio profissional centralizado.
-- [Estudos de Programação](https://github.com/isaacsoaress/Estudos): Repositório onde documento minha evolução em lógica e scripts Python.
-
-### ⚽ Fora da Programação
-- Apaixonado por futebol (Palmeiras!) e colecionador de figurinhas da Copa do Mundo.
-- Jogador de Valorant nas horas vagas.
 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do Isaac](https://github-readme-stats.vercel.app/api?username=isaacsoaress&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=isaacsoaress&show_icons=true&theme=radical)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsoaress&layout=compact&theme=radical)
