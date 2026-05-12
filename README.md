@@ -13,8 +13,4 @@
 - **Banco de Dados:** SQL, MySQL, Modelagem Entidade-Relacionamento (brModelo).
 - **Ferramentas:** VS Code, Git & GitHub, Scrum.
 
----
 
-### 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=isaacsoaress&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsoaress&layout=compact&theme=radical)
